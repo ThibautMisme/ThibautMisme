@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi I am Thibaut Misme.
+I am a PhD student at Trinity College Dublin (TCD) in Ireland (2023-2027).
+My work lays in Computational Number Theory. I am especially interested in explicit 2-descent for Jacobian of general curves and Theta Characteristics.
 
-<!--
-**ThibautMisme/ThibautMisme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contact
+You can contact me at mismet a t tcd.ie
 
-Here are some ideas to get you started:
+## Articles
+- A trick to ensure positive Mordell-Weil rank
+  (short note on arXiv)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## PARI/GP
+For the sake of my research, I proudly implement in PARI/GP, an open, free, number theory focused and efficient language. It includes a high level version that is designed for both involved and quick implementation. You can visit their webpage for more infomations:
+https://pari.math.u-bordeaux.fr/
+
