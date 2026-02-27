@@ -10,6 +10,6 @@ You can contact me at mismet a t tcd.ie
   (short note on arXiv)
 
 ## PARI/GP
-For the sake of my research, I proudly implement in PARI/GP, an open, free, number theory focused and efficient language. It includes a high level version that is designed for both involved and quick implementation. You can visit their webpage for more infomations:
+For the sake of my research, I implement in PARI/GP, an open, free, number theory focused and efficient language. It includes a high level version that is designed for both involved and quick implementation. You can visit their webpage for more infomations:
 https://pari.math.u-bordeaux.fr/
 
