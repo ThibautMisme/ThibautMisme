@@ -1,4 +1,4 @@
-## I am Thibaut Misme
+## Thibaut Misme personal webpage
 I am a PhD student at Trinity College Dublin (TCD) in Ireland (2023-2027).
 My work lies in Computational Number Theory. I am especially interested in explicit 2-descent for Jacobians of general curves and Theta Characteristics.
 
