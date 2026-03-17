@@ -7,7 +7,7 @@ You can contact me at mismet a t tcd.ie
 
 ## Articles
 - A trick to ensure positive Mordell-Weil rank <br />
-  (short note on arXiv) <br />
+  (short note on arXiv:2603.04100v2) <br />
   https://doi.org/10.48550/arXiv.2603.04100
 
 ## PARI/GP
